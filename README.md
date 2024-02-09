@@ -1,1 +1,2 @@
 # mandelbulb
+print("hello baby")
